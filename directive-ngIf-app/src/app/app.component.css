@@ -1,0 +1,15 @@
+.button {
+    text-align: center;
+}
+
+input[type=button] {
+    background-color: skyblue;
+    font-size: large;
+    border: none;
+ 
+}
+
+h2 {
+
+    color: navy;
+}
